@@ -4,7 +4,7 @@
   "description": "DevOps Lab 01 - Calculator with Jest tests",
   "main": "index.js",
   "scripts": {
-    "test": "npx jest"
+    "test": "node ./node_modules/jest/bin/jest.js"
   },
   "repository": {
     "type": "git",
